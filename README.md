@@ -1,7 +1,7 @@
 # 123.hp.com/setup 
 
 
-[![123 hp setup](lets-get-started.png)](http://hp123-setup.s3-website-us-west-1.amazonaws.com)
+[![123.hp.com/setup ](lets-get-started.png)](http://hp123-setup.s3-website-us-west-1.amazonaws.com)
 
 HP printers offer high-quality printing documents with high speed and have become an integral requirement of our personal as well as professional life. Hp printer is an affordable home printer that generates extraordinary quality documents and photos. The steps to download and install a hp printer driver are here at **[123.hp.com/setup](https://sofftware.github.io/)** Go-ahead to get your hp printer software now.
 
